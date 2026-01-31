@@ -65,7 +65,8 @@ vin@gmail.com
 123456
 ```
 ---
-<img width="301" height="589" alt="image" src="https://github.com/user-attachments/assets/31d8da73-b3b5-4e41-ae76-55e09b3f5e31" /><img width="299" height="525" alt="image" src="https://github.com/user-attachments/assets/c9da422d-23ab-45ba-b1f0-809157e6f007" />
+<img width="299" height="525" alt="image" src="https://github.com/user-attachments/assets/187937ca-ec52-4d89-a22a-003feaa80525" />
+<img width="299" height="525" alt="image" src="https://github.com/user-attachments/assets/c9da422d-23ab-45ba-b1f0-809157e6f007" />
 
 <img width="1104" height="1027" alt="image" src="https://github.com/user-attachments/assets/f32c7a27-338d-47c6-9b96-bd0e333a6558" />
 
