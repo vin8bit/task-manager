@@ -30,7 +30,7 @@ The primary goal of this project is to create a comprehensive yet simple task ma
 - Option B: Import the database from the sql_db/ folder
 
 2. Environment Configuration
-  Create a .env file in the root directory with the following variables:
+  Create a .env file in the root directory (backend) with the following variables:
 ```
 PORT=3000
 DB_HOST=localhost
